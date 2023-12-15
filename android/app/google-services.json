@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "789361732909",
+    "firebase_url": "https://led-control-f6249-default-rtdb.firebaseio.com",
+    "project_id": "led-control-f6249",
+    "storage_bucket": "led-control-f6249.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789361732909:android:8d57b8057031dc52ac77a4",
+        "android_client_info": {
+          "package_name": "com.example.led_control_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789361732909-c350i84ab9qhh25suh9ep6ga2i6faelc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaav_pMHS55ZYWaF7Bpe5wBKi7_MMCpzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789361732909-c350i84ab9qhh25suh9ep6ga2i6faelc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
